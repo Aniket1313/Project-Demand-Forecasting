@@ -13,3 +13,8 @@ The replenishment of majority of raw materials is done on weekly basis and since
 ## Problem Statement
 
  The task is to predict the demand for the next 10 weeks using regression model.
+ 
+## Evaluation Metric
+The evaluation metric for this competition is 100*RMSLE where RMSLE is Root of Mean Squared Logarithmic Error across all entries in the test set.
+
+
